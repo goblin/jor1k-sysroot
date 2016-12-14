@@ -1503,7 +1503,7 @@
 			{ "name":"pico", "mode":"120777", "path":"nano"},
 			{ "name":"sxpm", "mode":"100755", "size":18144, "c":1},
 			{ "name":"cxpm", "mode":"100755", "size":23124, "c":1},
-			{ "name":"xkbcomp", "mode":"100755", "size":193420, "c":1},
+			{ "name":"xkbcomp", "mode":"100744", "size":193420, "c":1},
 			{ "name":"ucs2any", "mode":"100755", "size":16560, "c":1},
 			{ "name":"bdftruncate", "mode":"100755", "size":6260, "c":1},
 			{ "name":"Xvfb", "mode":"100755", "size":2343124, "c":1},
